@@ -1,4 +1,3 @@
-/*Style CookieWidget*/
 @keyframes CookiebotWidgetFadeIn {
     0% {
         opacity: 0
@@ -519,6 +518,7 @@
 
 
 
+
 /*Stylesheet Dialog*/
 #CybotCookiebotDialog *,
 #CybotCookiebotDialogBodyUnderlay * {
@@ -532,7 +532,6 @@
     padding: 0;
     vertical-align: baseline;
 }
-
 
 #CybotCookiebotDialog #CybotCookiebotDialogNav :after,
 #CybotCookiebotDialog #CybotCookiebotDialogNav :before {
@@ -814,7 +813,9 @@ _:-ms-fullscreen {
 #CybotCookiebotDialogNav .CybotCookiebotDialogNavItems {
     display: flex;
     list-style: none;
-    overflow-x: auto
+    overflow-x: auto;
+    flex-direction: row;
+    
 }
 
 #CybotCookiebotDialogNav .CybotCookiebotDialogNavItems::-webkit-scrollbar {
