@@ -10,7 +10,7 @@
 }
 
 
-#CybotCookiebotDialog *,#CybotCookiebotDialogBodyUnderlay *{
+#CybotCookiebotDialogBodyUnderlay *{
     background:transparent;
     box-sizing:border-box;
     -webkit-text-fill-color:black;
