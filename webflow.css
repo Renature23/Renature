@@ -2458,7 +2458,7 @@ _:-ms-fullscreen {
     outline: 0;
     padding: 0;
     vertical-align: baseline;
-    flex-direction: unset
+
 }
 
 #CybotCookiebotDialog #CybotCookiebotDialogNav :after,
@@ -2766,6 +2766,7 @@ _:-ms-fullscreen {
     text-decoration: none;
     white-space: nowrap
 }
+
 
 #CybotCookiebotDialogNav .CybotCookiebotDialogNavItemLink:hover {
     color: #479e49
