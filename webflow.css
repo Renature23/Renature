@@ -815,7 +815,6 @@ _:-ms-fullscreen {
     list-style: none;
     overflow-x: auto;
     flex-direction: row;
-    
 }
 
 #CybotCookiebotDialogNav .CybotCookiebotDialogNavItems::-webkit-scrollbar {
